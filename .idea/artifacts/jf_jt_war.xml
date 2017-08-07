@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="jf-jt:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/jf_jt_war</output-path>
+    <root id="archive" name="jf-jt_war.war">
+      <element id="artifact" artifact-name="jf-jt:war exploded" />
+    </root>
+  </artifact>
+</component>

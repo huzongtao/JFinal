@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jfinal-2.0-bin-with-src1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jf-tomcat/web/WEB-INF/lib/jfinal-2.0-bin-with-src.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/jf-tomcat/web/WEB-INF/lib/jfinal-2.0-bin-with-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>
